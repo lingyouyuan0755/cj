@@ -1,1 +1,1 @@
-#Marquee文字无限滚动
+#Marquee公告栏文字无限滚动
